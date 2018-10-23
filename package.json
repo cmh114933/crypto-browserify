@@ -21,7 +21,7 @@
     "browserify-cipher": "^1.0.0",
     "browserify-sign": "git+https://github.com/cmh114933/browserify-sign.git",
     "create-ecdh": "^4.0.0",
-    "create-hash": "^1.1.0",
+    "create-hash": "git+https://github.com/cmh114933/createHash.git",
     "create-hmac": "git+https://github.com/cmh114933/createHmac.git",
     "diffie-hellman": "^5.0.0",
     "inherits": "^2.0.1",
